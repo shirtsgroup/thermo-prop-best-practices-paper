@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\urlprefix}{}
+\providecommand{\doiprefix}{doi: }
+
+\bibitem[{et~al.(2004)Horn et al.}]{horn}
+\textbf{\color{LiveCoMSMediumGrey} et~al H}.
+\newblock Development of an improved four-site water model for biomolecular
+  simulations: TIP4P-Ew.
+\newblock Journal of Chemical Physics.  2004; 120(20):9665--9678.
+
+\bibitem[{et~al.(2000)Dadarlat et al.}]{comp}
+\textbf{\color{LiveCoMSMediumGrey} et~al D}.
+\newblock Insights into Protein Compressibility from Molecular Dynamics
+  Simulations.
+\newblock The Journal of Physical Chemistry B.  2000; 105(3):715--724.
+
+\bibitem[{Lustig(2011)Lustig, Rolf}]{sos}
+\textbf{\color{LiveCoMSMediumGrey} Lustig R}.
+\newblock Direct molecular NVT simulation of the isobaric heat capacity, speed
+  of sound and Joule-Thomson coefficient.
+\newblock Molecular Simulation.  2011; 37(6):457--465.
+
+\bibitem[{Fennell(2012)Fennell, C.J.}]{dielec}
+\textbf{\color{LiveCoMSMediumGrey} Fennell CJ}.
+\newblock Simple liquid models with corrected dielectric constants.
+\newblock The Journal of Physical Chemistry B.  2012; 116(23):6936--6944.
+
+\bibitem[{et~al.(2016)Paluch et al.}]{paluch1}
+\textbf{\color{LiveCoMSMediumGrey} et~al P}.
+\newblock Developing a Predictive Form of MOSCED for Nonelectrolyte Solids
+  Using Molecular Simulation: Application to Acetanilide, Acetaminophen, and
+  Phenacetin.
+\newblock Industrial and Engineering Chemistry Research.  2016;
+  55(18):5415--5430.
+
+\bibitem[{et~al.(2015)Paluch et al.}]{paluch0}
+\textbf{\color{LiveCoMSMediumGrey} et~al P}.
+\newblock Calculating the Fugacity of Pure, Low Volatile Liquids via Molecular
+  Simulation with Application to Acetanilide, Acetaminophen, and Phenacetin.
+\newblock Industrial and Engineering Chemistry Research.  2015;
+  54(36):9027--9037.
+
+\bibitem[{et~al.(2010)Dai et al.}]{hexcess}
+\textbf{\color{LiveCoMSMediumGrey} et~al D}.
+\newblock Enthalpies of mixing predicted using molecular dynamics simulations
+  and OPLS force field.
+\newblock Fluid Phase Equilibria.  2010; 289(2):156--165.
+
+\bibitem[{et~al.(2011)Wang et al.}]{hvap}
+\textbf{\color{LiveCoMSMediumGrey} et~al W}.
+\newblock Application of Molecular Dynamincs Simulations in Molecular Property
+  Prediction. 1. Density and Heat of Vaporization.
+\newblock Journal of Chemical Theory and Computation.  2011; 7(7):2151--2165.
+
+\bibitem[{et~al.(2003)Chickos et al.}]{chickos}
+\textbf{\color{LiveCoMSMediumGrey} et~al C}.
+\newblock Enthalpies of Vaporization of Organic and Organometallic Compounds,
+  1880–2002.
+\newblock Journal of Physical and Chemical Reference Data.  2003;
+  32(2):519--878.
+
+\bibitem[{et~al.(2012)Wang et al.}]{FF99vdw}
+\textbf{\color{LiveCoMSMediumGrey} et~al W}.
+\newblock Development of Polarizable Models for Molecular Mechanical
+  Calculations IV: van der Waals parameterization.
+\newblock Journal of Physical Chemistry B.  2012; 116(24):7088--7101.
+
+\end{thebibliography}
